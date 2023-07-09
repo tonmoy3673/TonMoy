@@ -1,6 +1,6 @@
 ![logo](https://github.com/tonmoy3673/TonMoy/blob/main/Cover.jpg)
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Tonmoy</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h2 align="center">A passionate Front-End Developer from Bangladesh</h2>
 <img align="right" alt="img" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoy3673&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoy3673" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-56f42.web.app/](https://portfolio-56f42.web.app/)
 
-- 💬 Ask me about **HTML,CSS,Tailwind CSS,Bootstrap,JavaScript,React JS,Express JS,Node JS & MongoDB**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, Bootstrap,JavaScript, React JS, Express JS, Node JS & MongoDB**
 
 - 📫 How to reach me **meheditonmoy917@gmail.com**
 
