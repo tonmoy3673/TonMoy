@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Fandora](https://fandora-tonmoy.netlify.app/)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-56f42.web.app/](https://portfolio-56f42.web.app/)
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, Bootstrap,JavaScript, React JS, Express JS, Node JS & MongoDB**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React JS, Express JS, Node JS & MongoDB**
 
 - 📫 How to reach me **meheditonmoy917@gmail.com**
 
