@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-56f42.web.app/](https://portfolio-56f42.web.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-master-two-livid.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React JS, Express JS, Node JS & MongoDB**
 
